@@ -1,0 +1,5 @@
+Source: cpplocate
+Version: 2.2.0
+Build-Depends: 
+Description: Cross-platform C++ library providing tools for applications to locate themselves, their data assets as well as dependent modules. 
+Homepage: https://github.com/cginternals/cpplocate
