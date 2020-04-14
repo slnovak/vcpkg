@@ -1,0 +1,4 @@
+Source: treesitter
+Version: 0.16.5
+Homepage: https://tree-sitter.github.io/
+Description: Tree-sitter is a parser generator tool and an incremental parsing library.
